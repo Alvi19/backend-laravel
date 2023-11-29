@@ -1,7 +1,5 @@
 <h5 align="center">Sistem Pos Crud Sederhana</h5>
 
-## Apa itu Sistem Informasi Akademik Sekolah?
-
 ## Install
 
 1. **Clone Repository**
